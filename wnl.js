@@ -3,7 +3,7 @@
  * cron 18 7 * * * 
  * 
 
- */
+ **/
 
 const jsname = '万年历极速版'
 const $ = Env(jsname)
