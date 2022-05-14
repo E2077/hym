@@ -15,8 +15,6 @@ hostname = api.kuaisho*.com
 hostname = open.kuaisho*.com
 */
 
-const $ = new Env('快手极速版');
-
 const $$ = Envcc('');
 let acckey = $$["isNode"]() ? process["env"]["cdkey"] ? process["env"]["cdkey"] : '' : $$["getdata"]("cdkey") ? $$["getdata"]("cdkey") : '',
     all_msg = '',
