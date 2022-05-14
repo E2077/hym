@@ -1,6 +1,6 @@
 
 /*
-@肥皂 3.31 花赚福利社.js
+@肥皂 3.31 花赚福利社 .js
 一天2-3毛
 抓包 ：  找到https://apiv2.huazhuanapp.com/api/v1/coin/task/list? 开头的链接
 复制整条url
