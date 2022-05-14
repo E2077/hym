@@ -1,7 +1,7 @@
 /*
 脚本兼容: QuantumultX, Surge, Loon, JSBox, Node.js
 注册地址：https://ystzwz.com/h6/#/pages/reg/reg
-cron "10 8 * * *" tag=亿享云
+cron "10 8 * * *" tag=亿享云 
 yxyPhone:手机号#密码
 export yxyPhone='手机号#密码
 多账户用@隔开
