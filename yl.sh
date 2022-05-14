@@ -10,7 +10,7 @@ PATH="/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin"
 
 alpine_pkgs="bash curl gcc git jq libffi-dev make musl-dev openssl-dev perl perl-app-cpanminus perl-dev py3-pip python3 python3-dev wget linux-headers"
 py_reqs="bs4 cryptography dateparser feedparser peewee pyaes pyppeteer requests rsa schedule tomli jieba setuptools PyExecJS"
-js_pkgs="@iarna/toml axios fs js-yaml crypto dotenv psl yargs ts-md5 tslib jsdom typescript @types/node require crypto-js png-js iconv-lite extenduniversalify js-base64 canvas date-fns ts-node moment got"
+js_pkgs="@iarna/toml axios fs js-yaml form-data crypto download tunnel tough-cookie ws qs dotenv psl yargs ts-md5 tslib jsdom typescript @types/node require crypto-js png-js iconv-lite extenduniversalify js-base64 canvas date-fns ts-node moment got"
 pl_mods="File::Slurp JSON5 TOML::Dumper"
 
 install() {
