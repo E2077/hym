@@ -1,5 +1,5 @@
 /**
- * 有道词典 
+ * 有道词典  
  * cron 12 7 * * *  yml2213_javascript_master/ydcd.js
  * 
  * 有道词典 app  
