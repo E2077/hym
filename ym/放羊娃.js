@@ -1,5 +1,5 @@
 /*
-@肥皂 3.5 放羊娃.js
+@肥皂 3.5 放羊娃 .js
 
 青龙抓取接口的请求头：
 格式  变量名fywtoken  Authorization=xxxxxxxxxxxxx   Authorization的全部值
