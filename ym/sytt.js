@@ -1,7 +1,7 @@
 /*
 cron 8 7 * * * yml_javascript/sytt.js
 
-软件名称：十堰头条
+软件名称： 十堰头条
 下载地址：http://appx.10yan.com.cn/appshare/
 或者自己搜索下载
 3-17   完成签到、评论、分享、回帖 任务
