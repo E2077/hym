@@ -3,9 +3,9 @@
 https://m.lu.com/h5-member/sign/1651333734248?marketFeedbackCode=eyJ1cmxUaWQiOiIyOTQ0OTkxNSIsInVybFNvdXJjZSI6IjIwMDA3MjMyIiwibm90aWZ5VWsiOiIiLCJyd2RSdWxlVHlwZSI6InoiLCJxckNvZGVQb3N0ZXJJbWdJZCI6bnVsbCwiZXh0UGFyYW0iOnt9fQ#/sign?cur=20220430&n=1651333734942&m1=3mt2EYwBBdd+4fOEmvMh7w==
 注意 这个需要实名 不喜勿扰
 变量为ljshd
-下载登录后 点击首页签到页面 
+下载登录后 点击首页签到页 面 
 关键字 integral
-查看请求头Cookie填入变量
+查看请求头Cookie填入变量 
 如 ljshd='XXXX'
 多账号@隔开
 如 ljshd='XXXX'@'XXXX'
