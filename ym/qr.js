@@ -1,5 +1,5 @@
 /*
-
+奇瑞小程序
 青龙变量  多账户用@
 export qrck='Bearer eyJhbG...... @  Bearer eyJhbG......'
 cron "0 8 * * *" tag=奇瑞小程序
