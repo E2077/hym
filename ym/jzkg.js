@@ -2,7 +2,7 @@
  * 金砖旷工 app (链接带邀请)  谢谢填写
  * 下载地址: http://jzkg.jmsfx.top/download/1dc7c27b64c47fad?user=68738
  * 
- * cron 0 * * * *  yml2213_javascript_master/jzkg.js
+ * cron 2 6-23/1 * * *  yml2213_javascript_master/jzkg.js
  *
  * 金砖旷工 app (这个没有小程序,ios无缘了呀,自己虚拟机玩下吧)
  * 
