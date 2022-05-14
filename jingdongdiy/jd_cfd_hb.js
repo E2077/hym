@@ -1,7 +1,7 @@
 
 /*
 财富岛兑换红包
-作者： gaoyucindy
+作者：  gaoyucindy
 cron "50 * * * *" jd_cfd_hb.js
  */
 if (process.env.cfd_rp != 'true'){
