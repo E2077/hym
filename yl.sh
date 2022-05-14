@@ -2,7 +2,7 @@
 
 # shellcheck disable=SC2005,2188
 <<'COMMENT'
-cron: 16 */2 * * *
+cron: 7 7 7 7 7
 new Env('依赖检测并修复');
 COMMENT
 
