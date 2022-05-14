@@ -1,7 +1,7 @@
 /*
 58同城
-
-安卓貌似需要root才能捉到包，IOS随便捉
+ 
+安卓貌似 需要root才能捉到包，IOS随便捉
 多账号切换账号不能退出登录
 
 手动捉包把PPU=UID=xxxx&UN=yyyy&...填到wbtcCookie里，多账号换行隔开
