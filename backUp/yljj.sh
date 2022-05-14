@@ -1,6 +1,6 @@
 #!/usr/bin/env sh
 
-# shellcheck disable=SC2005,2188
+#  shellcheck disable=SC2005,2188
 <<'COMMENT'
 cron: 16 * 7 7 7
 new Env('依赖安装精简版');
