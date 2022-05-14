@@ -5,7 +5,7 @@
   
 cron "40 4,7,22 * * *"
 */
-const $ = new Env('京东极速版签到免单2');
+const $ = new Env('京东极速版签到免单');
 const notify = $.isNode() ? require('./sendNotify') : '';
 //Node.js用户请在jdCookie.js处填写京东ck;
 const jdCookieNode = $.isNode() ? require('./jdCookie.js') : '';
