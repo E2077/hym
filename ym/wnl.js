@@ -5,6 +5,7 @@
 
  **/
 
+const $ = new Env('万年历极速版');
 const jsname = '万年历极速版'
 const $ = Env(jsname)
 const logDebug = 0
