@@ -5,7 +5,7 @@
 cron "21 8 * * * 7
 */
 
-const $ = 新建 Env('京东极速周版');
+const $ = new Env('京东极速版');
 
 const notify = $.isNode() ? require('./sendNotify') : '';
 //Node.js用户请在jdCookie.js处填写京东ck;
