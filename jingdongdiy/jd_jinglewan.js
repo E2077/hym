@@ -282,8 +282,8 @@ class UserInfo {
         }
         await $.wait(SLEEP_TIME)
         
-        for(let files of fs.readdirSync(`/ql/log/${scriptName}`)) {
-            let fileName = `/ql/log/${scriptName}/${files}`
+        for(let files of fs.readdirSync(`/ql/data/log/${scriptName}`)) {
+            let fileName = `/ql/data/log/${scriptName}/${files}`
             let logFile = fs.statSync(fileName)
             let mtime = logFile.mtime.getTime()
             let nowtime = Date.now()
