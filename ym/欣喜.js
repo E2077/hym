@@ -11,6 +11,7 @@ cookie格式：tg的用户id@xxxxxxxxxx
 加上用户id是由机器人发送通知
 
 也可以不加！随便写 123@cookie 也行
+cron "25 19 * * *" tag=辛喜
 
 */
 
