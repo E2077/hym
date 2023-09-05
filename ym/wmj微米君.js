@@ -6,7 +6,7 @@
 自动登录应该不存在掉登录的问题。所以不管多少，挂着呗。有毛就行。
 注册链接：绑定微信后设置账号密码就可以了。
 http://cdnshare.weimi99.cn/h5_reg/ukey/BNPFV4Y9.html
-* cron * 38 8 * * * 
+cron * 38 8 * * * tag=微米君
 */
 
 
