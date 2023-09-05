@@ -14,7 +14,7 @@ ttlhd=''    多账号@隔开
 十一教程网:http://bk.ajouter.cn/
 qq交流群：487417175
 [task_local]
-cron 20 9 * * * tag=太太乐, img-url=circles.hexagongrid.fill.system, enabled=true
+cron "29 10 * * *" tag=太太乐
 */
 
 const $ = new Env('太太乐');
