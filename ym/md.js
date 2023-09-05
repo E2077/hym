@@ -2,7 +2,7 @@
 微信打开https://wx.nxhudong.com/qiu22/22_11mdpp/?sid=31003___0需要先授权登录一下，再点击链接进，抓包https://wx.nxhudong.com/开头的链接就行，找到请求头Cookie，只需要PHPSESSID=XXXXX，多账号用@隔开。
 
 每天抽奖3次，抽到红包秒推
-
+cron "54 20 * * *" tag=美的盲盒
 变量名:Mdck
 
 */
