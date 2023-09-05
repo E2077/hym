@@ -6,7 +6,7 @@
 # coding=utf-8
 '''
 cron: 31 6,18 * * *
-new Env('天翼云盘1');
+new Env('天翼云盘2');
 '''
 import notify
 import time
