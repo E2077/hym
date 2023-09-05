@@ -1,7 +1,7 @@
 /*
 [mitm]
 hostname = *.amemv.com
-
+cron "7 7 7 7  7" tag=抖音极速版
 [rewrite local]
 luckycat/aweme/v1/task/done/read? url script-request-header https://raw.githubusercontent.com/FengYun27/Sheep_Hair/main/dyjsb.js
 luckycat/aweme/v1/task/walk/step_submit? url script-request-header https://raw.githubusercontent.com/FengYun27/Sheep_Hair/main/dyjsb.js
